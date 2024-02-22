@@ -6,7 +6,7 @@ http://rockpaperscissors-ai.now.sh/
 
 ## What is this?
 
-This is a paper scissors rock game created using artificial intelligence.  
+This is a rock paper scissor lizard spock game created using artificial intelligence.  
 
 This game can read the players' patterns to determine the steps the AI will take in order to win.  
 
@@ -14,8 +14,8 @@ Built with Nuxt JS & Tailwind CSS framework.
 
 ## Screensot
 
-![image](https://user-images.githubusercontent.com/32485694/90313106-085fa200-df34-11ea-956c-b22986cc01e1.png)
-
+![image](![image](https://github.com/VainaviS/rock-paper-scissor-lizard-spock-with-AI/assets/75711421/cbc5258d-891b-4b85-9cee-41113f781647))
+![image](![image]![image](https://github.com/VainaviS/rock-paper-scissor-lizard-spock-with-AI/assets/75711421/066b9140-17e4-4106-a8bd-57c43e7158f3))
 ## How to play?
 
 1. You can start the game by selecting "rock", "scissors" or "paper".
@@ -23,8 +23,8 @@ Built with Nuxt JS & Tailwind CSS framework.
 3. Examples of patterns:
     - Rock, rock, rock, rock, etc.
     - Rock, scissors, rock, scissors, etc.
-    - Rock, scissors, paper, rock, scissors, paper, etc.
-    - Paper, paper, paper, paper, etc.
+    - Rock, scissors, lizard, rock, scissors, lizard, etc.
+    - Spock, Spock, Spock, Spock, etc.
 4. See that you will lose.
 
 ## Build setup
